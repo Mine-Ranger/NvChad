@@ -6,6 +6,13 @@ return {
       "fish",
       "python",
     },
+    -- highlight = {
+    --   enable = true,
+    --   use_languagetree = true,
+    -- },
+    -- indent = {
+    --   enable = true,
+    -- },
     rainbow = {
       enable = true,
       extended_mode = true,
