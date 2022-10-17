@@ -79,9 +79,9 @@ return {
   ["TimUntersberger/neogit"] = {
     requires = "nvim-lua/plenary.nvim",
     cmd = "Neogit",
-    config = function ()
-      local neogit = require('neogit')
+    config = function()
+      local neogit = require "neogit"
       neogit.setup {}
-    end
+    end,
   },
 }
