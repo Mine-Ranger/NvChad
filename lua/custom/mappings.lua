@@ -26,6 +26,7 @@ map("n", "<leader>gaa", ":G add -u<CR>")
 map("n", "<leader>gA", ":G add .<CR>")
 map("n", "<leader>gc", ":G commit ")
 map("n", "<leader>G", ":G ")
+map("n", "<leader>g", ":Neogit<CR>")
 
 -- Trouble.nvim
 map("n","<leader>tx ",":TroubleToggle<CR>")
