@@ -13,6 +13,7 @@ map("n", "<leader>I", "I <Esc>r")
 map("n", "<leader>a", "a <Esc>r")
 map("n", "<leader>A", "A <Esc>r")
 map("n", ";;", "A;<Esc>-")
+map("n","<leader>fx",":!chmod +x %<CR>")
 
 -- Telescope shortcuts
 map("n", "<leader>cd", ":Telescope cder<CR>")
