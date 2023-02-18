@@ -12,7 +12,6 @@ map("n", "<leader>i", "i r")
 map("n", "<leader>I", "I r")
 map("n", "<leader>a", "a r")
 map("n", "<leader>A", "A r")
-map("n", "<leader>p", "\"_dP")
 map("n", ";;", "A;-")
 map("n","<leader>fx","<cmd> !chmod +x %<CR>")
 
