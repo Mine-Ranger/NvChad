@@ -14,6 +14,7 @@ map("n", "<leader>a", "a r")
 map("n", "<leader>A", "A r")
 map("n", ";;", "A;-")
 map("n","<leader>fx","<cmd> !chmod +x %<CR>")
+map("n","<leader>so","<cmd> so %<CR>")
 
 -- Telescope shortcuts
 map("n", "<leader>cd", "<cmd> Telescope cder<CR>")

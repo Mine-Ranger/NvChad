@@ -1,5 +1,5 @@
 --IDE settings
-vim.o.guifont = "JetBrainsMono Nerd Font:h10"
+vim.o.guifont = "JetBrainsMono Nerd Font:h14"
 vim.o.shell = "/usr/bin/fish"
 vim.g.mapleader = ";"
 
