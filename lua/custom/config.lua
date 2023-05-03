@@ -1,7 +1,7 @@
 --IDE settings
 vim.o.guifont = "JetBrainsMono Nerd Font:h14"
 vim.o.shell = "/usr/bin/fish"
-vim.g.mapleader = ";"
+vim.g.mapleader = " "
 
 vim.o.relativenumber = true
 vim.o.wrap = false

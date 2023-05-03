@@ -10,7 +10,7 @@ M.plugins = {
 }
 
 M.ui = {
-  theme = "aquarium",
+  theme = "catppuccin",
 }
 
 return M

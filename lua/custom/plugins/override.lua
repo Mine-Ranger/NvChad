@@ -5,6 +5,7 @@ return {
       "bash",
       "fish",
       "python",
+      "nix"
     },
     rainbow = {
       enable = true,
